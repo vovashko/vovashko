@@ -8,7 +8,7 @@ Aspiring software engineer with passion for mobile apps, front end and LLMs.
 
 ![Vova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovashko&show_icons=true&theme=merko)
 
-Languages used
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovashko&theme=merko)
 <!--
 **vovashko/vovashko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
