@@ -6,8 +6,7 @@ Aspiring software engineer with passion for mobile apps, front end and LLMs.
 - 🔭 I’m currently working on app to keep track of reading stats and book classification
 - 🌱 I’m currently learning Python and looking into creating LLM
 
-[![Vova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovashko&show_icons=true)]
-
+![Vova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovashko&show_icons=true&theme=radical)
 <!--
 **vovashko/vovashko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
