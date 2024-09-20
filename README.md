@@ -6,7 +6,7 @@ Aspiring software engineer with passion for mobile apps, front end and LLMs.
 - 🔭 I’m currently working on app to keep track of reading stats and book classification
 - 🌱 I’m currently learning Python and looking into creating LLM
 
-![Vova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovashko&show_icons=true&theme=tokyonight)
+![Vova's GitHub stats](https://github-readme-stats-delta-ruby-12.vercel.app/api?username=vovashko&show_icons=true&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovashko&theme=tokyonight)
