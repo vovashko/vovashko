@@ -2,10 +2,6 @@
 
 Aspiring software engineer with passion for mobile apps, front end and LLMs.
 
-- 🤔 Studying at Codam (42 network)
-- 🔭 I’m currently working on app to keep track of reading stats and book classification
-- 🌱 I’m currently learning Python and looking into creating LLM
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vovashko&theme=tokyonight)
 <!--
